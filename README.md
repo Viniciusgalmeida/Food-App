@@ -8,6 +8,12 @@ You can access the deployed app at: https://viniciusgalmeida.github.io/Food-App/
 
 The code for the app is available on Github: https://github.com/Viniciusgalmeida/Food-App
 
+## Food App Image
+
+![Food App picture](https://raw.githubusercontent.com/Viniciusgalmeida/Food-App/main/public/Food-app-image.png)
+
+___
+
 ## Technologies used:
 - React.js
 - Context API
